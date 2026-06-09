@@ -1,0 +1,26 @@
+# Ideal Arch Deviation Report
+# Image    : LO_0625
+# Generated: 2026-06-09 22:15:48
+# Ideal Arch: Individualized (molar + incisor anchors only)
+# Anchor teeth: R37/R36, R31, L41, L46/L47
+# Method   : Triangular [R37↔L47] (Li et al. 2017)
+# Unit     : pixel (canonical frame) — no mm calibration yet
+# Note     : movement_needed_px = estimated displacement
+#            to reach ideal arch position
+# Ref      : Andrews (1972); Fan et al. (2025)
+#
+tooth_id,side,status,is_anchor_tooth,ideal_mmr_dev_px,ideal_mmr_dx_px,ideal_mmr_dy_px,ideal_dmr_dev_px,ideal_dmr_dx_px,ideal_dmr_dy_px,ideal_mean_dev_px,movement_needed_px
+R31,Right,present,YES,5.7,0.63,5.66,40.12,11.06,38.56,22.91,22.91
+R32,Right,present,no,23.6,9.29,21.69,40.8,24.64,32.51,32.2,32.2
+R33,Right,present,no,20.45,13.53,15.33,49.94,41.07,28.42,35.19,35.19
+R34,Right,present,no,24.93,21.0,13.44,19.09,17.16,8.36,22.01,22.01
+R35,Right,present,no,11.39,10.29,4.89,10.82,10.08,3.93,11.1,11.1
+R36,Right,present,YES,7.6,7.1,2.7,6.61,-6.42,-1.59,7.1,7.1
+R37,Right,present,YES,2.04,-2.0,-0.42,58.42,7.85,-57.89,30.23,30.23
+L41,Left,present,YES,11.22,0.74,11.19,40.63,-10.98,39.12,25.92,25.92
+L42,Left,present,no,22.73,-6.41,21.81,35.21,-22.13,27.38,28.97,28.97
+L43,Left,present,no,11.33,-7.55,8.44,32.99,-28.26,17.01,22.16,22.16
+L44,Left,present,no,12.3,-10.86,5.77,26.64,-24.29,10.95,19.47,19.47
+L45,Left,present,no,11.94,-10.92,4.81,15.82,-14.73,5.77,13.88,13.88
+L46,Left,present,YES,16.53,-15.42,5.95,9.68,-9.3,2.7,13.11,13.11
+L47,Left,present,YES,8.04,-7.75,2.11,63.16,-24.14,-58.36,35.6,35.6
