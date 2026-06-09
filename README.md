@@ -118,3 +118,4 @@ output/cases/[ชื่อภาพ]/
 | Wellens (2007) Am J Orthod 131:160.e17 | COG fallback orientation |
 | Andrews (1972) Am J Orthod 62(3) | Ideal arch concept |
 | ISO 3950:2016 | FDI tooth numbering |
+"# Dental-Arch-Analasis-Final-" 
